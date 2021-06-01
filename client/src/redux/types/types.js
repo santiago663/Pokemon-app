@@ -1,0 +1,14 @@
+export const FILTRO = "FILTRO"
+export const ADD_NEW_POKEMON="ADD_NEW_POKEMON";
+export const GET_POKEMON= "GET_POKEMON";
+export const GET_DETAIL= "GET_DETAIL";
+export const GET_INICIAL_POKEMONS="GET_INICIAL_POKEMONS";
+export const GET_POKEMON_TYPE="GET_POKEMON_TYPE";
+export const BACK_ORIGIN="BACK_ORIGIN";
+export const PAGINATIONS="PAGINATIONS";
+export const SIGUIENTE="SIGUIENTE";
+export const ANTERIOR="ANTERIOR";
+export const ASCENDENTE ="ASCENDENTE";
+export const DESCENDENTE="DESCENDENTE";
+export const MAYOR="MAYOR";
+export const MENOR="MENOR";
